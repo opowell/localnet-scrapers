@@ -59,6 +59,19 @@ To add a scraper, give it a repo of its own (see any listed here) and add the re
 | Steam | `store.steampowered.com` | [localnet-scraper-steam](https://github.com/opowell/localnet-scraper-steam) |
 | Telegram | `t.me/s/` | [localnet-scraper-telegram](https://github.com/opowell/localnet-scraper-telegram) |
 | Amazon | `www.amazon.` | [localnet-scraper-amazon](https://github.com/opowell/localnet-scraper-amazon) |
+| Pornhub | `pornhub.com` | [localnet-scraper-pornhub](https://github.com/opowell/localnet-scraper-pornhub) |
+| XVideos | `xvideos` | [localnet-scraper-xvideos](https://github.com/opowell/localnet-scraper-xvideos) |
+| xHamster | `xhamster` | [localnet-scraper-xhamster](https://github.com/opowell/localnet-scraper-xhamster) |
+| SpankBang | `spankbang.` | [localnet-scraper-spankbang](https://github.com/opowell/localnet-scraper-spankbang) |
+| PornHat | `pornhat.com` | [localnet-scraper-pornhat](https://github.com/opowell/localnet-scraper-pornhat) |
+| LuxureTV | `luxuretv.com` | [localnet-scraper-luxuretv](https://github.com/opowell/localnet-scraper-luxuretv) |
+| Rutube | `rutube.ru` | [localnet-scraper-rutube](https://github.com/opowell/localnet-scraper-rutube) |
+| F95zone | `f95zone.to` | [localnet-scraper-f95zone](https://github.com/opowell/localnet-scraper-f95zone) |
+| Bakusai | `bakusai.com` | [localnet-scraper-bakusai](https://github.com/opowell/localnet-scraper-bakusai) |
+| HentaiEra | `hentaiera.com` | [localnet-scraper-hentaiera](https://github.com/opowell/localnet-scraper-hentaiera) |
+| HentaiRead | `hentairead.com` | [localnet-scraper-hentairead](https://github.com/opowell/localnet-scraper-hentairead) |
+| SexKomix2 | `sexkomix2.com` | [localnet-scraper-sexkomix2](https://github.com/opowell/localnet-scraper-sexkomix2) |
+| DLsite | `dlsite.com` | [localnet-scraper-dlsite](https://github.com/opowell/localnet-scraper-dlsite) |
 
 ## What the scrapers read
 
