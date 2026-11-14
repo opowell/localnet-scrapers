@@ -72,6 +72,20 @@ To add a scraper, give it a repo of its own (see any listed here) and add the re
 | HentaiRead | `hentairead.com` | [localnet-scraper-hentairead](https://github.com/opowell/localnet-scraper-hentairead) |
 | SexKomix2 | `sexkomix2.com` | [localnet-scraper-sexkomix2](https://github.com/opowell/localnet-scraper-sexkomix2) |
 | DLsite | `dlsite.com` | [localnet-scraper-dlsite](https://github.com/opowell/localnet-scraper-dlsite) |
+| Upskirt.TV | `upskirt.tv` | [localnet-scraper-upskirt](https://github.com/opowell/localnet-scraper-upskirt) |
+| XXX Bule | `xxxbule.com` | [localnet-scraper-xxxbule](https://github.com/opowell/localnet-scraper-xxxbule) |
+| XXBRITS | `xxbrits.com` | [localnet-scraper-xxbrits](https://github.com/opowell/localnet-scraper-xxbrits) |
+| HentaiCity | `hentaicity.com` | [localnet-scraper-hentaicity](https://github.com/opowell/localnet-scraper-hentaicity) |
+| HQPorner | `hqporner.com` | [localnet-scraper-hqporner](https://github.com/opowell/localnet-scraper-hqporner) |
+| PussySpace | `pussyspace.com` | [localnet-scraper-pussyspace](https://github.com/opowell/localnet-scraper-pussyspace) |
+| XNXX | `xnxx` | [localnet-scraper-xnxx](https://github.com/opowell/localnet-scraper-xnxx) |
+| JAVHDPorn | `javhdporn.net` | [localnet-scraper-javhdporn](https://github.com/opowell/localnet-scraper-javhdporn) |
+| Tik.Porn | `tik.porn/` | [localnet-scraper-tikporn](https://github.com/opowell/localnet-scraper-tikporn) |
+| ColliderPorn | `colliderporn.com` | [localnet-scraper-colliderporn](https://github.com/opowell/localnet-scraper-colliderporn) |
+| wnacg | `wnacg.com` | [localnet-scraper-wnacg](https://github.com/opowell/localnet-scraper-wnacg) |
+| nhentai.to | `nhentai.to` | [localnet-scraper-nhentai-to](https://github.com/opowell/localnet-scraper-nhentai-to) |
+| e621 | `e621.net` | [localnet-scraper-e621](https://github.com/opowell/localnet-scraper-e621) |
+| xHSpot | `xhspot.com` | [localnet-scraper-xhamster](https://github.com/opowell/localnet-scraper-xhamster) |
 
 ## What the scrapers read
 
