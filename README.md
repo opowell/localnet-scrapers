@@ -59,6 +59,8 @@ To add a scraper, give it a repo of its own (see any listed here) and add the re
 | Steam | `store.steampowered.com` | [localnet-scraper-steam](https://github.com/opowell/localnet-scraper-steam) |
 | Telegram | `t.me/s/` | [localnet-scraper-telegram](https://github.com/opowell/localnet-scraper-telegram) |
 | Amazon | `www.amazon.` | [localnet-scraper-amazon](https://github.com/opowell/localnet-scraper-amazon) |
+| Spotify | `open.spotify.com` | [localnet-scraper-spotify](https://github.com/opowell/localnet-scraper-spotify) |
+| IMDb | `imdb.com` | [localnet-scraper-imdb](https://github.com/opowell/localnet-scraper-imdb) |
 | Pornhub | `pornhub.com` | [localnet-scraper-pornhub](https://github.com/opowell/localnet-scraper-pornhub) |
 | XVideos | `xvideos` | [localnet-scraper-xvideos](https://github.com/opowell/localnet-scraper-xvideos) |
 | xHamster | `xhamster` | [localnet-scraper-xhamster](https://github.com/opowell/localnet-scraper-xhamster) |
