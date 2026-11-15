@@ -63,6 +63,7 @@ To add a scraper, give it a repo of its own (see any listed here) and add the re
 | IMDb | `imdb.com` | [localnet-scraper-imdb](https://github.com/opowell/localnet-scraper-imdb) |
 | Trustpilot | `trustpilot.com` | [localnet-scraper-trustpilot](https://github.com/opowell/localnet-scraper-trustpilot) |
 | Quora | `quora.com` | [localnet-scraper-quora](https://github.com/opowell/localnet-scraper-quora) |
+| Yelp | `yelp.` | [localnet-scraper-yelp](https://github.com/opowell/localnet-scraper-yelp) |
 | Pornhub | `pornhub.com` | [localnet-scraper-pornhub](https://github.com/opowell/localnet-scraper-pornhub) |
 | XVideos | `xvideos` | [localnet-scraper-xvideos](https://github.com/opowell/localnet-scraper-xvideos) |
 | xHamster | `xhamster` | [localnet-scraper-xhamster](https://github.com/opowell/localnet-scraper-xhamster) |
