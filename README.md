@@ -67,6 +67,7 @@ To add a scraper, give it a repo of its own (see any listed here) and add the re
 | Tripadvisor | `tripadvisor.` | [localnet-scraper-tripadvisor](https://github.com/opowell/localnet-scraper-tripadvisor) |
 | Merriam-Webster | `merriam-webster.com` | [localnet-scraper-merriam-webster](https://github.com/opowell/localnet-scraper-merriam-webster) |
 | Ekşi Sözlük | `eksisozluk.com` | [localnet-scraper-eksisozluk](https://github.com/opowell/localnet-scraper-eksisozluk) |
+| Namu Wiki | `namu.wiki/w/` | [localnet-scraper-namuwiki](https://github.com/opowell/localnet-scraper-namuwiki) |
 | Pornhub | `pornhub.com` | [localnet-scraper-pornhub](https://github.com/opowell/localnet-scraper-pornhub) |
 | XVideos | `xvideos` | [localnet-scraper-xvideos](https://github.com/opowell/localnet-scraper-xvideos) |
 | xHamster | `xhamster` | [localnet-scraper-xhamster](https://github.com/opowell/localnet-scraper-xhamster) |
