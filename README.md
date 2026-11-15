@@ -70,6 +70,7 @@ To add a scraper, give it a repo of its own (see any listed here) and add the re
 | Namu Wiki | `namu.wiki/w/` | [localnet-scraper-namuwiki](https://github.com/opowell/localnet-scraper-namuwiki) |
 | Etsy | `etsy.com` | [localnet-scraper-etsy](https://github.com/opowell/localnet-scraper-etsy) |
 | IKEA | `ikea.com` | [localnet-scraper-ikea](https://github.com/opowell/localnet-scraper-ikea) |
+| Flipkart | `flipkart.com` | [localnet-scraper-flipkart](https://github.com/opowell/localnet-scraper-flipkart) |
 | Pornhub | `pornhub.com` | [localnet-scraper-pornhub](https://github.com/opowell/localnet-scraper-pornhub) |
 | XVideos | `xvideos` | [localnet-scraper-xvideos](https://github.com/opowell/localnet-scraper-xvideos) |
 | xHamster | `xhamster` | [localnet-scraper-xhamster](https://github.com/opowell/localnet-scraper-xhamster) |
