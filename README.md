@@ -76,6 +76,7 @@ To add a scraper, give it a repo of its own (see any listed here) and add the re
 | AccuWeather | `accuweather.com` | [localnet-scraper-accuweather](https://github.com/opowell/localnet-scraper-accuweather) |
 | X | `://x.com/` | [localnet-scraper-x](https://github.com/opowell/localnet-scraper-x) |
 | Twitter | `://twitter.com/` | [localnet-scraper-x](https://github.com/opowell/localnet-scraper-x) |
+| Pinterest | `pinterest.` | [localnet-scraper-pinterest](https://github.com/opowell/localnet-scraper-pinterest) |
 | Pornhub | `pornhub.com` | [localnet-scraper-pornhub](https://github.com/opowell/localnet-scraper-pornhub) |
 | XVideos | `xvideos` | [localnet-scraper-xvideos](https://github.com/opowell/localnet-scraper-xvideos) |
 | xHamster | `xhamster` | [localnet-scraper-xhamster](https://github.com/opowell/localnet-scraper-xhamster) |
