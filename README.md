@@ -29,6 +29,7 @@ To add a scraper, give it a repo of its own (see any listed here) and add the re
 | CNBC | `cnbc.com` | [localnet-scraper-cnbc](https://github.com/opowell/localnet-scraper-cnbc) |
 | Business Insider | `businessinsider.com` | [localnet-scraper-businessinsider](https://github.com/opowell/localnet-scraper-businessinsider) |
 | YouTube | `youtube.com` | [localnet-scraper-youtube](https://github.com/opowell/localnet-scraper-youtube) |
+| YouTube Music | `music.youtube.com` | [localnet-scraper-youtube-music](https://github.com/opowell/localnet-scraper-youtube-music) |
 | TNAFlix | `tnaflix.com` | [localnet-scraper-tnaflix](https://github.com/opowell/localnet-scraper-tnaflix) |
 | Google | `www.google.com/search` | [localnet-scraper-google](https://github.com/opowell/localnet-scraper-google) |
 | Bing | `www.bing.com/search` | [localnet-scraper-bing](https://github.com/opowell/localnet-scraper-bing) |
